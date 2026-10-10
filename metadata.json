@@ -1,0 +1,6 @@
+{
+  "name": "CivicSnap — AI-Powered Civic Issue Reporting",
+  "description": "Turn everyday civic issues into clear, actionable, evidence-backed complaints for municipal authorities in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
